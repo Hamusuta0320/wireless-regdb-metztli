@@ -1,0 +1,13 @@
+wireless-regdb (2018.04.02-1) metztli; urgency=medium
+
+  * Non-maintainer upload.
+  * Reiser4, (SFRN) 4.0.2, -enabled Linux 4.15.15 for stretch-backports needs this.
+  * Modified debian/rules to install regulatory.db.p7s & regulatory.db at /lib/firmware
+
+ -- Metztli Information Technology <jose@metztli-it.com>  Mon, 02 Apr 2018 13:14:01 -0700
+
+wireless-regdb (2009.01.15-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Luis R. Rodriguez <mcgrof@gmail.com>  Thu, 22 Jan 2009 16:00:00 +0100
